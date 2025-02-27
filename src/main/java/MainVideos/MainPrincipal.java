@@ -44,7 +44,8 @@ public class MainPrincipal {
 		System.out.println(repositorioInscrito.buscarTodosInscritos());
 		System.out.println(repositorioVideo.buscarTodosVideos());
 		System.out.println(repositorioVisu.buscarTodasVisualizacoes());
-		}
+
+		System.out.println("se loko num compensa");
 	}
-
-
+		
+}
